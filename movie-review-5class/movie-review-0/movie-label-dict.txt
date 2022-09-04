@@ -1,0 +1,5 @@
+0/bad horrible negative disgusting
+1/bad confused unexpected useless negative
+2/normal moderate neutral objective impersonal
+3/good positive outstanding satisfied pleased
+4/positive impressive unbelievable awesome
