@@ -1,7 +1,8 @@
 # ADRM
 The Tensorflow implementation of our TOIS paper:    
 ***An Attention-based Deep Relevance Model for Few-Shot Document Filtering, Bulou Liu, Chenliang Li, Wei Zhou, Feng Ji, Yu Duan, Haiqing Chen***
-Paper url: 
+
+Paper url: https://dl.acm.org/doi/10.1145/3419972
 
 ### Requirements
 - Python 3.5
